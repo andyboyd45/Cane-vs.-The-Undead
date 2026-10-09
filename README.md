@@ -6,4 +6,8 @@ Changes that I have made compared to my original proposal is level design.  In m
 
 Overall I am happy with how it turned out and personally love the design and sounds of the game.  I will definilty be working on this game outside of this project to make feel more polished and fun.
 
+How to Run:
+
+Go into game builds --> Cane vs. The Undead --> and run myproject.exe
+
 link: https://github.com/andyboyd45/Cane-vs.-The-Undead
